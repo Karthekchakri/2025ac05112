@@ -105,7 +105,4 @@ streamlit run app.py
 
 ## Live Streamlit App Link
 
-> **`<PASTE-YOUR-STREAMLIT-COMMUNITY-CLOUD-URL-HERE>`**
->
-> Deploy at https://streamlit.io/cloud → "New app" → select
-> `Karthekchakri/2025ac05112` → branch `main` → file `app.py` → Deploy.
+> **https://2025ac05112-pcfsxaygfn2ahsdvwyatmu.streamlit.app/**
